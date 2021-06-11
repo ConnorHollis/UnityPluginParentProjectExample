@@ -1,0 +1,3 @@
+[submodule "Submodules/UnityPluginExample"]
+	path = Submodules/UnityPluginExample
+	url = git@github.com:ConnorHollis/UnityPluginExample.git
