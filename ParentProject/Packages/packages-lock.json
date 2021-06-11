@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.plugin.unitypluginexample": {
+      "version": "file:E:/Dev/Personal/UnityPluginParentProjectExample/Submodules/UnityPluginExample",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
