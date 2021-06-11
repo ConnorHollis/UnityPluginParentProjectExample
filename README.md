@@ -1,2 +1,2 @@
 # UnityPluginParentProjectExample
-Example parent project that will include a submodule with a plugin within it.
+Example parent project that includes a submodule unity plugin.
